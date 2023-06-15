@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&family=Press+Start+2P&display=swap');
+
+.containerAbout{
+    background-color: darkorchid;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: 'Instrument Serif', serif;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.containerAbout2{
+    background-color: chartreuse;
+    text-align: start;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
